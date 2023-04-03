@@ -1,0 +1,244 @@
+{
+    "locations":[
+    {
+        "name": "Lumbridge",
+        "city": 1,
+        "bank": 1,
+        "agility": 0,
+        "combat": 0,
+        "toll": 0,
+        "shortcut": 0,
+        "areas": [
+            "East Lumbridge",
+            "West Lumbridge",
+            "Lumbridge Swamp"
+        ],
+        "shops":[
+            "Axe Shop",
+            "General Store",
+            "Bar"
+        ],
+        "npcs":[
+            "Jackson",
+            "Man",
+            "Woman",
+            "Guard",
+            "Lumbridge Guide"
+        ]
+    },
+    {
+        "name": "East Lumbridge",
+        "city": 0,
+        "bank": 0,
+        "agility": 0,
+        "combat": 1,
+        "toll": 1,
+        "shortcut": 0,
+        "areas": [
+            "Lumbridge Cow Pen",
+            "Lumbridge Chicken Coop",
+            "Lumbridge",
+            "North Lumbridge"
+        ]
+    },
+    {
+        "name": "West Lumbridge",
+        "city": 0,
+        "bank": 0,
+        "agility": 0,
+        "combat": 1,
+        "toll": 0,
+        "shortcut": 0,
+        "areas": [
+            "Lumbridge",
+            "Lumbridge Swamp",
+            "Draynor Village",
+            "Draynor Cow Pen"
+        ]
+    },
+    {
+        "name": "North Lumbridge",
+        "city": 0,
+        "bank": 0,
+        "agility": 0,
+        "combat": 1,
+        "toll": 0,
+        "shortcut": 0,
+        "areas": [
+            "Lumbridge Cow Pen",
+            "Lumbridge Chicken Coop",
+            "South Varrock Shortcut",
+            "Lumbridge Varrock Border",
+            "East Lumbridge"
+        ]
+    },
+    {
+        "name": "Lumbridge Varrock Border",
+        "city": 0,
+        "bank": 0,
+        "agility": 0,
+        "combat": 0,
+        "toll": 0,
+        "shortcut": 0,
+        "areas": [
+            "South Varrock Shortcut",
+            "North Lumbridge"
+        ]
+    },
+    {
+        "name": "South Varrock Shortcut",
+        "city": 0,
+        "bank": 0,
+        "agility": 0,
+        "combat": 0,
+        "toll": 0,
+        "shortcut": 1,
+        "areas": [
+            "Lumbridge Cow Pen",
+            "Lumbridge Chicken Coop",
+            "South Varrock",
+            "North Lumbridge"
+        ]
+    },
+    {
+        "name": "Lumbridge Cow Pen",
+        "city": 0,
+        "bank": 0,
+        "agility": 0,
+        "combat": 1,
+        "toll": 0,
+        "shortcut": 0,
+        "areas": [
+            "Lumbridge Chicken Coop",
+            "East Lumbridge",
+            "North Lumbridge"
+        ]
+    },
+    {
+        "name": "Lumbridge Chicken Coop",
+        "city": 0,
+        "bank": 0,
+        "agility": 0,
+        "combat": 1,
+        "toll": 0,
+        "shortcut": 0,
+        "areas": [
+            "Lumbridge Cow Pen",
+            "East Lumbridge",
+            "North Lumbridge"
+        ]
+    },
+    {
+        "name": "Lumbridge Swamp",
+        "city": 0,
+        "bank": 0,
+        "agility": 0,
+        "combat": 1,
+        "toll": 0,
+        "shortcut": 1,
+        "areas": [
+            "Lumbridge",
+            "West Lumbridge"
+        ]
+    },
+    {
+        "name": "Draynor Village",
+        "city": 1,
+        "bank": 1,
+        "agility": 1,
+        "combat": 0,
+        "toll": 0,
+        "shortcut": 0,
+        "areas": [
+            "West Lumbridge",
+            "Draynor Manor",
+            "Draynor Cow Pen",
+            "Wizard Tower"
+        ],
+        "shops":[
+            "General Store"
+        ],
+        "npcs":[
+            "Wise Old Man",
+            "Farmer",
+            "Master Farmer"
+        ]
+    },
+    {
+        "name": "Draynor Manor",
+        "city": 0,
+        "bank": 0,
+        "agility": 0,
+        "combat": 1,
+        "toll": 0,
+        "shortcut": 0,
+        "areas": [
+            "Draynor Manor",
+            "Draynor Cow Pen"
+        ]
+    },
+    {
+        "name": "Draynor Cow Pen",
+        "city": 0,
+        "bank": 0,
+        "agility": 0,
+        "combat": 1,
+        "toll": 0,
+        "shortcut": 0,
+        "areas": [
+            "Draynor Village",
+            "West Lumbridge"        
+        ]
+    },
+    {
+        "name": "Wizard Tower",
+        "city": 1,
+        "bank": 0,
+        "agility": 0,
+        "combat": 0,
+        "toll": 0,
+        "shortcut": 0,
+        "areas": [
+            "Draynor Village",
+            "West Lumbridge"        
+        ],
+        "npcs":[
+            "Head Wizard"
+        ]
+    },
+    {
+        "name": "Al Kharid",
+        "city": 1,
+        "bank": 1,
+        "agility": 1,
+        "combat": 0,
+        "toll": 1,
+        "shortcut": 1,
+        "areas": [
+            "Al Kharid Mine"
+        ],
+        "shops":[
+            "General Store",
+            "Pickaxe Shop",
+            "Zeke's Superior Scimitars",
+            "Leather Tanner",
+            "Kebab shop"
+        ],
+        "npcs":[
+            "Al Kahrid Warrior"
+        ]
+    },
+    {
+        "name": "Al Kharid Mine",
+        "city": 1,
+        "bank": 0,
+        "agility": 0,
+        "combat": 0,
+        "toll": 0,
+        "shortcut": 0,
+        "areas": [
+            "Al Kharid"
+        ]
+    }
+]
+}

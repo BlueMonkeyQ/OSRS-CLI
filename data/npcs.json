@@ -1,0 +1,83 @@
+{
+    "npcs":[
+        {
+            "name": "Jackson",
+            "slayer": 1,
+            "thieving": 0,
+            "amount": 10,
+            "assign":[
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "name": "Man",
+            "slayer": 0,
+            "thieving": 1,
+            "chance": 70,
+            "xp": 3,
+            "req": 0,
+            "drop_table": [
+                25
+            ]
+            
+        },
+        {
+            "name": "Woman",
+            "slayer": 0,
+            "thieving": 1,
+            "chance": 70,
+            "xp": 3,
+            "req": 0,
+            "drop_table": [
+                25
+            ]
+        },
+        {
+            "name": "Farmer",
+            "slayer": 0,
+            "thieving": 1,
+            "chance": 67,
+            "xp": 14.5,
+            "req": 12,
+            "drop_table": [
+                25
+            ]
+        },
+        {
+            "name": "Al Kharid Warrior",
+            "slayer": 0,
+            "thieving": 1,
+            "chance": 60,
+            "xp": 26,
+            "req": 25,
+            "drop_table": [
+                25
+            ]
+        },
+        {
+            "name": "Master Farmer",
+            "slayer": 0,
+            "thieving": 1,
+            "chance": 57.5,
+            "xp": 43,
+            "req": 38,
+            "drop_table": [
+                25
+            ]
+        },
+        {
+            "name": "Guard",
+            "slayer": 0,
+            "thieving": 1,
+            "chance": 49,
+            "xp": 46.8,
+            "req": 40,
+            "drop_table": [
+                25
+            ]
+        }
+    ]
+}

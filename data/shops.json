@@ -1,0 +1,36 @@
+{
+    "shops":[
+    {
+        "name": "General Store",
+        "inv": 1,
+        "service": 0,
+        "inventory":[
+            24
+        ]
+    },
+    {
+        "name": "Axe Shop",
+        "inv": 1,
+        "service": 0,
+        "inventory":[
+            5,6
+        ]
+    },
+    {
+        "name": "Bar",
+        "inv": 1,
+        "service": 0,
+        "inventory":[
+            21,22,23
+        ]
+    },
+    {
+        "name": "Leather Tanner",
+        "inv": 0,
+        "service": 1,
+        "services":{
+            "CowHide": 1
+        }
+    }
+    ]
+}

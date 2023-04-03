@@ -1,0 +1,112 @@
+{
+    "mobs":[
+        {
+            "id": 1, 
+            "name": "Big Frog", 
+            "gold": 10, 
+            "max_hp": 607, 
+            "attack": 346, 
+            "strength": 260, 
+            "defense": 173, 
+            "locations":[
+                "Lumbridge Swamp"
+            ],
+            "drop_table":[
+            ]
+        },
+        {
+            "id": 2, 
+            "name": "Chicken", 
+            "gold": 10, 
+            "max_hp": 173, 
+            "attack": 0, 
+            "strength": 0, 
+            "defense": 0, 
+            "locations":[
+                "Lumbridge Chicken Coop"
+            ],
+            "drop_table":[
+                [2,100,5],
+                [3,100,1]
+            ]
+        },
+        {
+            "id": 3, 
+            "name": "Cow", 
+            "gold": 10, 
+            "max_hp": 607, 
+            "attack": 0, 
+            "strength": 0, 
+            "defense": 0, 
+            "locations":[
+                "Lumbridge Cow Pen",
+                "Draynor Cow Pen"
+            ],
+            "drop_table":[
+                [0,100,1],
+                [1,100,1]
+            ]
+        },
+        {
+            "id": 4, 
+            "name": "Brown Goblin", 
+            "gold": 10, 
+            "max_hp": 346, 
+            "attack": 0, 
+            "strength": 0, 
+            "defense": 0, 
+            "locations":[
+                "East Lumbridge"
+            ],
+            "drop_table":[
+                
+            ]
+        },
+        {
+            "id": 5, 
+            "name": "Green Goblin", 
+            "gold": 10, 
+            "max_hp": 346, 
+            "attack": 0, 
+            "strength": 0, 
+            "defense": 0,
+            "locations":[
+                "West Lumbridge"
+            ],
+            "drop_table":[
+                
+            ]
+        },
+        {
+            "id": 6, 
+            "name": "Skeleton", 
+            "gold": 10, 
+            "max_hp": 1994, 
+            "attack": 1387, 
+            "strength": 1387, 
+            "defense": 1387, 
+            "locations":[
+                "Draynor Manor"
+            ],
+            "drop_table":[
+                
+            ]
+        },
+        {
+            "id": 7, 
+            "name": "Unicorn", 
+            "gold": 607, 
+            "max_hp": 1560, 
+            "attack": 867, 
+            "strength": 1040, 
+            "defense": 1040, 
+            "locations":[
+                "North Lumbridge",
+                "South Varrock"
+            ],
+            "drop_table":[
+                
+            ]
+        }
+    ]
+}
